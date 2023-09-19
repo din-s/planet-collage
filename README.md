@@ -1,3 +1,3 @@
 # planet-collage
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-vdtsq6)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/planet-collage)
